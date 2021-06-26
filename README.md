@@ -3,7 +3,8 @@
 Resume
 
 A sample Resume built using HTML.
-![image](https://user-images.githubusercontent.com/26149033/123505257-ab686880-d67b-11eb-8aeb-cb2e60ef6a55.png)
+![image](https://user-images.githubusercontent.com/26149033/123505306-f4202180-d67b-11eb-87c7-68075c1f45a0.png)
+
 
 
 
